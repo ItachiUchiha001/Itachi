@@ -10,3 +10,4 @@ print("Number of vowels are:")
 print(vowels)
 print("Number of consonants are:")
 print(consonants)
+#program1
